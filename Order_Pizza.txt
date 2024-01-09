@@ -1,0 +1,3 @@
+Go online to check for deals at all pizza resturants.
+Now order from the pizza resturant with the best deal.
+Most of the time each resturant will have an app with better deals.
